@@ -1,12 +1,3 @@
----
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
-labels: Delivered, Proposal
-assignees: ''
-
----
-
 - Title
 
 - Brief description about the content to be covered
