@@ -14,4 +14,4 @@
 
 - Availability (When would you be able to give the talk?) 
 
-- Any comments
+- Measure Success(How will you measure the Success of your talk?)
