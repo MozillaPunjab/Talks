@@ -10,8 +10,8 @@
 
 - Link to slides / demos
 
+- Measure Success(How will you measure the Success of your talk?)
+
 - About yourself (Please include social media links, twitter, facebook, mozillians id, etc.)
 
 - Availability (When would you be able to give the talk?) 
-
-- Measure Success(How will you measure the Success of your talk?)
