@@ -31,7 +31,7 @@ _Tell us what you're planning to talk about in brief_
 _What if 2 people appear? What if 200 appear?_
 
 - About yourself
-_Please include Mozillians Profile(if applicable), LinkedIn, Twitter, GitHub and Your website (if any)
+_Please include Mozillians Profile(if applicable), LinkedIn, Twitter, GitHub and Your website (if any)_
 
 - Availability (When would you be able to give the talk?) 
 
