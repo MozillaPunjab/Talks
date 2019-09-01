@@ -27,7 +27,7 @@ _Tell us what you're planning to talk about in brief_
 
 - Platforms that you may use
 
-- Measure Success(How will you measure the Success of your talk?)
+- How will you measure the Success of your talk?
 _What if 2 people appear? What if 200 appear?_
 
 - About yourself
